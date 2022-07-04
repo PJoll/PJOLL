@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Peter and I am an aspiring developer. My goal is to join a vibrant team that will utilize my front and back end skills.
 
 <!--
 **PJoll/PJOLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
