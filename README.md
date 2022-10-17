@@ -1,6 +1,13 @@
 ### Hi there 👋
 My name is Peter and I am an aspiring developer. My goal is to join a vibrant team that will utilize my front and back end skills.
 
+🔭 I’m currently working on a diary app in C# and React to create a fun space to collect thoguths.   
+
+My favourite language is Javascript and really enjoy React Js.
+
+Outside of coding i love anything NBA,AFL,reading and video games
+Pronouns: He/Him
+
 <!--
 **PJoll/PJOLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
