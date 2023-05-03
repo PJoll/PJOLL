@@ -1,12 +1,20 @@
-### Hi there 👋
+### Hi there It's been a while.👋
 My name is Peter and I am an aspiring developer. My goal is to join a vibrant team that will utilize my front and back end skills.
+---
+### A quick introduction.
+* I'm currently doing an internship at Marango working mainly with Reactjs and webpack.
+* I'm currently learning Java
+* I'm very open to freelance projects especially in Reactjs.
+* I love anything Nba, Afl, Formula 1, reading and video games.
 
-🔭 I’m currently working on a diary app in C# and React to create a fun space to collect thoguths.   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterjolleydevops/)
 
-My favourite language is Javascript and really enjoy React Js.
+<p float="left">
+<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<!-- and more such images with different URLs in src -->
+</p>
 
-Outside of coding i love anything NBA,AFL,reading and video games
-Pronouns: He/Him
 
 <!--
 **PJoll/PJOLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
