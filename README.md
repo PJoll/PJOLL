@@ -27,6 +27,7 @@ My name is Peter and I am an aspiring developer. My goal is to join a vibrant te
 <br />
 <br />
 
+Please visit my portfolio to check out my work. You can find it here https://pjoll.github.io/React-Port/
 
 <!--
 **PJoll/PJOLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
